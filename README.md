@@ -1,46 +1,67 @@
-🌅 Sundown Studio
+███████╗██╗   ██╗███╗   ██╗██████╗ ██████╗  ██████╗ ██╗    ██╗
+██╔════╝██║   ██║████╗  ██║██╔══██╗██╔══██╗██╔═══██╗██║    ██║
+███████╗██║   ██║██╔██╗ ██║██████╔╝██████╔╝██║   ██║██║ █╗ ██║
+╚════██║██║   ██║██║╚██╗██║██╔═══╝ ██╔══██╗██║   ██║██║███╗██║
+███████║╚██████╔╝██║ ╚████║██║     ██████╔╝╚██████╔╝╚███╔███╔╝
+╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝     ╚═════╝  ╚═════╝  ╚══╝╚══╝  
 
-Sundown Studio is a modern and elegant frontend website featuring smooth animations, a responsive layout, and a premium UI/UX design. Built with pure HTML, CSS, and JavaScript, this project is perfect for showcasing creative agency or portfolio-style design.
+                       Sundown Studio
+                 Web Experience | Frontend UI
 
-🔗 Live Demo: https://dev-chandan404.github.io/Sundown-Studio/
+================================================================
 
-✨ Features
+> PROJECT STATUS: OPERATIONAL
+> MODE: STATIC FRONTEND
+> LANGUAGE: HTML / CSS / JS
 
-Fully responsive design
+================================================================
+:: DESCRIPTION
+----------------------------------------------------------------
+A minimal yet visually immersive frontend build inspired by 
+modern studio websites. Designed for performance, precision, 
+and clean UI transitions.
 
-Smooth animations and transitions
+This repository contains:
+- Responsive layout
+- Smooth scrolling sections
+- Interactive hover effects
+- Modern design aesthetic
 
-Clean and modern UI
+================================================================
+:: FILE STRUCTURE
+----------------------------------------------------------------
+/root
+ ├── index.html
+ ├── /assets
+ │     ├── images/
+ │     ├── styles/
+ │     └── scripts/
+ └── README.md
 
-Lightweight and fast
+================================================================
+:: INSTALLATION
+----------------------------------------------------------------
+$ git clone https://github.com/Dev-Chandan404/Sundown-Studio
+$ cd Sundown-Studio
+$ open index.html   # or drag into browser
 
-Easy to customize
+================================================================
+:: PREVIEW
+----------------------------------------------------------------
+> Load index.html in any modern browser.
+> No build tools, no dependencies, no complications.
 
-🛠️ Tech Stack
+================================================================
+:: AUTHOR
+----------------------------------------------------------------
+Dev Chandan  
+Frontend Developer
 
-HTML5
+================================================================
+:: LICENSE
+----------------------------------------------------------------
+This project is released under the MIT License.
 
-CSS3
-
-JavaScript (ES6)
-
-📁 Project Structure
-Sundown-Studio/
-├── css/
-├── images/
-├── script/
-├── index.html
-├── video.mp4
-└── README.md
-🚀 Getting Started
-
-Clone the repository:
-
-git clone https://github.com/Dev-Chandan404/Sundown-Studio.git
-
-Open index.html in your browser
-or use Live Server for best results.
-
-📜 License
-
-This project is licensed under the MIT License.
+================================================================
+:: END OF TRANSMISSION
+----------------------------------------------------------------
