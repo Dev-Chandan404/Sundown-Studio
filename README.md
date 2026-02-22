@@ -1,2 +1,16 @@
-# Sundown-Studio
-“A modern creative studio website showcasing clean design, smooth animations, and an immersive user experience.”
+# Sundown Studio
+
+<p style="font-family: Arial; font-size: 18px; color: #555;">
+  Sundown Studio transforms bold ideas into stunning, immersive design experiences.
+</p
+  
+## 🚀 Features
+
+* Modern UI
+* Smooth animations
+* Responsive layout
+
+## 🛠️ Tech Stack
+
+HTML, CSS, JavaScript
+>
