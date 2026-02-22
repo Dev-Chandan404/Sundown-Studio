@@ -9,7 +9,7 @@
 > MODE: STATIC FRONTEND
 > LANGUAGE: HTML / CSS / JS
 
-================================================================
+============================================================
 :: DESCRIPTION
 ----------------------------------------------------------------
 A minimal yet visually immersive frontend build inspired by 
