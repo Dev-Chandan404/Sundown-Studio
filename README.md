@@ -59,5 +59,5 @@ Frontend Developer
 This project is released under the MIT License.
 
 ============================================================
-:: END OF TRANSMISSION
+💡 This project is for learning and front-end development practice.
 ----------------------------------------------------------------
