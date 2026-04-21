@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://dev-chandan404.github.io/Sundown-Studio/">
-  <img src="https://api.screenshotone.com/take?url=https://dev-chandan404.github.io/Sundown-Studio/&viewport_width=1280&viewport_height=720&format=jpg&image_quality=90" alt="Sundown Studio Preview" width="90%" />
+  <img src="https://i.ibb.co/LhqB9MY9/sundown.png" alt="sundown"  width="90%">
 </a>
 
 *Sundown Studio — A visually immersive creative studio experience built with pure HTML, CSS & JS*
